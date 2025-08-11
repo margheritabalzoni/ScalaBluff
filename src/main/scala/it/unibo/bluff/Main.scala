@@ -1,3 +1,4 @@
+package it.unibo.bluff
 
 object Main {
     def main(args: Array[String]): Unit = {
