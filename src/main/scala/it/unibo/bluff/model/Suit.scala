@@ -1,4 +1,4 @@
-package it.unibo.scalabluff.model
+package it.unibo.bluff.model
 
 enum Suit:
   case Clubs, Diamonds, Hearts, Spades

@@ -1,4 +1,4 @@
-package it.unibo.scalabluff.model
+package it.unibo.bluff.model
 
 /** Carta standard da poker: rango + seme */
 final case class Card(rank: Rank, suit: Suit)
